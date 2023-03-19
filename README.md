@@ -6,4 +6,5 @@ I'm passionate about game development and looking to learn more.
 
 I'm excited about the opportunity to expand my knowledge and gain practical experience by working alongside experienced professionals in the field.
 If you have any work opportunities available, I would love to hear from you!
+
 Thank you for considering me!
