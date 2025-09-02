@@ -5,4 +5,4 @@ Self-taught, self-motivated, and passionate about building engaging gameplay exp
 
 I'm always eager to learn more and excited to take on new challenges in game development.
 
-📌 You can find more about my experience and projects on my [LinkedIn profile](https://www.linkedin.com/in/bogdan-iushchenko-26053326b/).
+📌 You can find more about my experience on my [LinkedIn profile](https://www.linkedin.com/in/bogdan-iushchenko-26053326b/).
