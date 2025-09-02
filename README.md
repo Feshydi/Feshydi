@@ -1,10 +1,8 @@
-### Hi, I'm Bogdan 👋
+Hi, I'm Bogdan 👋
 
-I'm a beginner game developer with a passion for creating engaging games.
-While I have only completed one self-made project so far, I am incredibly proud of my achievements as a self-taught developer.
-I'm passionate about game development and looking to learn more.
+I'm an independent game developer with a few years of experience in game creation.
+Self-taught, self-motivated, and passionate about building engaging gameplay experiences through hands-on development.
 
-I'm excited about the opportunity to expand my knowledge and gain practical experience by working alongside experienced professionals in the field.
-If you have any work opportunities available, I would love to hear from you!
+I'm always eager to learn more and excited to take on new challenges in game development.
 
-Thank you for considering me!
+📌 You can find more about my experience and projects on my [LinkedIn profile](https://www.linkedin.com/in/bogdan-iushchenko-26053326b/).
